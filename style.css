@@ -93,18 +93,6 @@ ol > li:hover > ul {
   display:block;
 }
 
-ol > li {
-  float:left;
-  background-color:#darkorange;
-  width:150px;
-  margin-left:1px;
-  height:2em;
-}
-
-ol > li:hover > a {
-  color:#09C;
-}
-
 #break {
 	width: 100%;
 	padding: 10px 0;
